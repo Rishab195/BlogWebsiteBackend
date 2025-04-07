@@ -20,5 +20,4 @@ This is the **backend** of a full-stack Blog Website built using Node.js, Expres
 - **dotenv** for environment variables
 - **CORS**, **Helmet**, and **Morgan** for security and logging
 
-## 📁 Project Structure
 
